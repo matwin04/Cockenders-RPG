@@ -1,7 +1,5 @@
 #include "raylib.h"
-#include "rcamera.h"
 #include <iostream>
-#include "LDtkLoader/World.hpp"
 
 
 
@@ -20,13 +18,22 @@ int main(void) {
         if (IsKeyDown(KEY_LEFT)) ballPosition.x -= 2.0f;
         if (IsKeyDown(KEY_UP)) ballPosition.y -= 2.0f;
         if (IsKeyDown(KEY_DOWN)) ballPosition.y += 2.0f;
+        if (IsKeyDown(KEY_A)) {
+            BeginDrawing();
+                ClearBackground(BLUE);
+                DrawText("Congrats you beat the game by entering the secret menu",200,200,20,WHITE);
+            EndDrawing();
+        } else {
         BeginDrawing();
-            ClearBackground(RAYWHITE);
-            DrawTexture(texture,screenW/2-texture.width/2,screenH/2-texture.height, WHITE);
+            ClearBackground(BLACK);
+            DrawText("Frostie Studios",190,200,20,RED);
+            DrawText("PRESENTS",400,200,20,LIGHTGRAY);
+            
+            DrawRectangle(200,400,150,20,RED);
+            DrawText("L O A D I N G", 200,400,20,LIGHTGRAY);
 
-            DrawText("Frostie Studios Presents",190,200,20,RED);
-            DrawCircleV(ballPosition, 50, MAROON);
         EndDrawing();
+        }
     }
     UnloadTexture(texture);
     CloseWindow();
