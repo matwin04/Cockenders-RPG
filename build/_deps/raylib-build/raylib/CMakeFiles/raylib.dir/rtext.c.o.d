@@ -96,5 +96,5 @@ _deps/raylib-build/raylib/CMakeFiles/raylib.dir/rtext.c.o: \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk/usr/include/sys/_types/_wint_t.h \
   /Users/frostie/PycharmProjects/Cockenders-RPG/build/_deps/raylib-src/src/external/stb_rect_pack.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk/usr/include/assert.h \
-  /Users/frostie/PycharmProjects/Cockenders-RPG/build/_deps/raylib-src/src/external/stb_truetype.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk/usr/include/math.h
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk/usr/include/math.h \
+  /Users/frostie/PycharmProjects/Cockenders-RPG/build/_deps/raylib-src/src/external/stb_truetype.h

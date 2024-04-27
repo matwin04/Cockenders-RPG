@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/frostie/PycharmProjects/Cockenders-RPG/build/_deps/ldtkloader-subbuild/CMakeFiles/ldtkloader-populate"
+		},
+		{
+			"file" : "/Users/frostie/PycharmProjects/Cockenders-RPG/build/_deps/ldtkloader-subbuild/CMakeFiles/ldtkloader-populate.rule"
+		},
+		{
+			"file" : "/Users/frostie/PycharmProjects/Cockenders-RPG/build/_deps/ldtkloader-subbuild/CMakeFiles/ldtkloader-populate-complete.rule"
+		},
+		{
+			"file" : "/Users/frostie/PycharmProjects/Cockenders-RPG/build/_deps/ldtkloader-subbuild/ldtkloader-populate-prefix/src/ldtkloader-populate-stamp/ldtkloader-populate-build.rule"
+		},
+		{
+			"file" : "/Users/frostie/PycharmProjects/Cockenders-RPG/build/_deps/ldtkloader-subbuild/ldtkloader-populate-prefix/src/ldtkloader-populate-stamp/ldtkloader-populate-configure.rule"
+		},
+		{
+			"file" : "/Users/frostie/PycharmProjects/Cockenders-RPG/build/_deps/ldtkloader-subbuild/ldtkloader-populate-prefix/src/ldtkloader-populate-stamp/ldtkloader-populate-download.rule"
+		},
+		{
+			"file" : "/Users/frostie/PycharmProjects/Cockenders-RPG/build/_deps/ldtkloader-subbuild/ldtkloader-populate-prefix/src/ldtkloader-populate-stamp/ldtkloader-populate-install.rule"
+		},
+		{
+			"file" : "/Users/frostie/PycharmProjects/Cockenders-RPG/build/_deps/ldtkloader-subbuild/ldtkloader-populate-prefix/src/ldtkloader-populate-stamp/ldtkloader-populate-mkdir.rule"
+		},
+		{
+			"file" : "/Users/frostie/PycharmProjects/Cockenders-RPG/build/_deps/ldtkloader-subbuild/ldtkloader-populate-prefix/src/ldtkloader-populate-stamp/ldtkloader-populate-patch.rule"
+		},
+		{
+			"file" : "/Users/frostie/PycharmProjects/Cockenders-RPG/build/_deps/ldtkloader-subbuild/ldtkloader-populate-prefix/src/ldtkloader-populate-stamp/ldtkloader-populate-test.rule"
+		},
+		{
+			"file" : "/Users/frostie/PycharmProjects/Cockenders-RPG/build/_deps/ldtkloader-subbuild/ldtkloader-populate-prefix/src/ldtkloader-populate-stamp/ldtkloader-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ldtkloader-populate"
+		],
+		"name" : "ldtkloader-populate"
+	}
+}

@@ -1381,6 +1381,7 @@ _deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/cocoa_monitor.m.
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk/usr/include/pthread/pthread_impl.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk/usr/include/pthread/qos.h \
   /Users/frostie/PycharmProjects/Cockenders-RPG/build/_deps/raylib-src/src/external/glfw/src/cocoa_time.h \
+  /Users/frostie/PycharmProjects/Cockenders-RPG/build/_deps/raylib-src/src/external/glfw/src/../include/GLFW/glfw3native.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk/System/Library/Frameworks/IOKit.framework/Headers/graphics/IOGraphicsLib.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk/System/Library/Frameworks/IOKit.framework/Headers/graphics/IOFramebufferShared.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk/System/Library/Frameworks/IOKit.framework/Headers/graphics/IOGraphicsInterface.h \

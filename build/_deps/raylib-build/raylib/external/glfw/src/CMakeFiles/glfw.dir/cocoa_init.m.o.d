@@ -1381,4 +1381,5 @@ _deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/cocoa_init.m.o: 
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk/usr/include/pthread/pthread_impl.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk/usr/include/pthread/qos.h \
   /Users/frostie/PycharmProjects/Cockenders-RPG/build/_deps/raylib-src/src/external/glfw/src/cocoa_time.h \
+  /Users/frostie/PycharmProjects/Cockenders-RPG/build/_deps/raylib-src/src/external/glfw/src/../include/GLFW/glfw3native.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk/usr/include/crt_externs.h

@@ -1,0 +1,3 @@
+/Users/frostie/PycharmProjects/Cockenders-RPG/build/_deps/ldtkloader-subbuild/CMakeFiles/ldtkloader-populate.dir
+/Users/frostie/PycharmProjects/Cockenders-RPG/build/_deps/ldtkloader-subbuild/CMakeFiles/edit_cache.dir
+/Users/frostie/PycharmProjects/Cockenders-RPG/build/_deps/ldtkloader-subbuild/CMakeFiles/rebuild_cache.dir

@@ -9,7 +9,7 @@
 *   Example licensed under an unmodified zlib/libpng license, which is an OSI-certified,
 *   BSD-like license that allows static linking with closed source software
 *
-*   Copyright (c) 2019-2023 arvyy (@arvyy)
+*   Copyright (c) 2019-2024 arvyy (@arvyy)
 *
 ********************************************************************************************/
 
@@ -135,6 +135,8 @@ int main(void)
 
                 Rectangle playerRect = { player.position.x - 20, player.position.y - 40, 40, 40 };
                 DrawRectangleRec(playerRect, RED);
+                
+                DrawCircle(player.position.x, player.position.y, 5, GOLD);
 
             EndMode2D();
 
@@ -168,7 +170,7 @@ void UpdatePlayer(Player *player, EnvItem *envItems, int envItemsLength, float d
         player->canJump = false;
     }
 
-    int hitObstacle = 0;
+    bool hitObstacle = false;
     for (int i = 0; i < envItemsLength; i++)
     {
         EnvItem *ei = envItems + i;
@@ -179,9 +181,10 @@ void UpdatePlayer(Player *player, EnvItem *envItems, int envItemsLength, float d
             ei->rect.y >= p->y &&
             ei->rect.y <= p->y + player->speed*delta)
         {
-            hitObstacle = 1;
+            hitObstacle = true;
             player->speed = 0.0f;
             p->y = ei->rect.y;
+            break;
         }
     }
 

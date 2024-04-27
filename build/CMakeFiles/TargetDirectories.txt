@@ -1,4 +1,4 @@
-/Users/frostie/PycharmProjects/Cockenders-RPG/build/CMakeFiles/CockendRPG.dir
+/Users/frostie/PycharmProjects/Cockenders-RPG/build/CMakeFiles/Cockenders-RPG.dir
 /Users/frostie/PycharmProjects/Cockenders-RPG/build/CMakeFiles/package.dir
 /Users/frostie/PycharmProjects/Cockenders-RPG/build/CMakeFiles/package_source.dir
 /Users/frostie/PycharmProjects/Cockenders-RPG/build/CMakeFiles/edit_cache.dir
@@ -43,3 +43,12 @@
 /Users/frostie/PycharmProjects/Cockenders-RPG/build/_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/install.dir
 /Users/frostie/PycharmProjects/Cockenders-RPG/build/_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/install/local.dir
 /Users/frostie/PycharmProjects/Cockenders-RPG/build/_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/install/strip.dir
+/Users/frostie/PycharmProjects/Cockenders-RPG/build/_deps/ldtkloader-build/CMakeFiles/LDtkLoader.dir
+/Users/frostie/PycharmProjects/Cockenders-RPG/build/_deps/ldtkloader-build/CMakeFiles/package.dir
+/Users/frostie/PycharmProjects/Cockenders-RPG/build/_deps/ldtkloader-build/CMakeFiles/package_source.dir
+/Users/frostie/PycharmProjects/Cockenders-RPG/build/_deps/ldtkloader-build/CMakeFiles/edit_cache.dir
+/Users/frostie/PycharmProjects/Cockenders-RPG/build/_deps/ldtkloader-build/CMakeFiles/rebuild_cache.dir
+/Users/frostie/PycharmProjects/Cockenders-RPG/build/_deps/ldtkloader-build/CMakeFiles/list_install_components.dir
+/Users/frostie/PycharmProjects/Cockenders-RPG/build/_deps/ldtkloader-build/CMakeFiles/install.dir
+/Users/frostie/PycharmProjects/Cockenders-RPG/build/_deps/ldtkloader-build/CMakeFiles/install/local.dir
+/Users/frostie/PycharmProjects/Cockenders-RPG/build/_deps/ldtkloader-build/CMakeFiles/install/strip.dir
